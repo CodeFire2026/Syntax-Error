@@ -14,7 +14,7 @@
 ---
 ## `Tecnologias Utilizadas`
 
-  <img src="https://skillicons.dev/icons?i=js,java,py,git,github,mongodb&perline=15" />
+  <img src="https://skillicons.dev/icons?i=js,java,py,git,github,perline=15" />
 </p>
 
 <div align="center"><br>
