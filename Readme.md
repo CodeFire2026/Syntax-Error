@@ -12,7 +12,7 @@
 ```
 
 ---
-## 'Tecnologias Utilizadas'
+## `Tecnologias Utilizadas`
 
   <img src="https://skillicons.dev/icons?i=js,java,py,git,github,mongodb&perline=15" />
 </p>
